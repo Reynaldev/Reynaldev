@@ -1,5 +1,5 @@
 # About
-Hi! My name is Rey, currently working as indie game developer, I post my project to Github often. Lastly, I'm from Indonesia!
+Hi! My name is Rey, currently working as solo game developer, I post my project to Github often. Lastly, I'm from Indonesia!
 
 <a href="https://www.instagram.com/reyn.crs/"><img alt="Instagram" src="https://img.shields.io/twitter/url?label=Instagram&logo=instagram&style=social&url=https%3A%2F%2Fwww.instagram.com%2Freyn.crs%2F"></a>
 <a href="https://www.linkedin.com/in/reynaldy-nurcahyo-992585228/"><img alt="LinkedIn" src="https://img.shields.io/twitter/url?label=LinkedIn&logo=linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Freynaldy-nurcahyo-992585228%2F"></a>
