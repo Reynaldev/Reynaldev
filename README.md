@@ -6,7 +6,7 @@ Hi! My name is Rey, currently working as solo game developer from Indonesia.
 <a href="https://reygamedev.itch.io/"><img alt="ItchIo" src="https://img.shields.io/twitter/url?label=Itch.io&logo=itch.io&style=social&url=https%3A%2F%2Freygamedev.itch.io%2F"></a>
 
 # Skills
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=546E7A)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=c96800)
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=0059ff)
 ![](https://img.shields.io/badge/Code-Csharp-informational?style=flat&logo=csharp&logoColor=white&color=673AB7)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=1976D2)
