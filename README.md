@@ -15,5 +15,5 @@ Hi! My name is Rey, currently working as solo game developer from Indonesia.
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=EEFF41)
 
 # Stats
-[![ReynaldyNC's GitHub stats](https://github-readme-stats.vercel.app/api?username=ReynaldyNC&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![ReynaldyNC's GitHub stats](https://github-readme-stats.vercel.app/api?username=reynaldync&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reynaldync&layout=compact&hide=TeX,powershell&langs_count=10&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
