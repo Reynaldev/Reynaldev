@@ -1,8 +1,6 @@
 # About
 Hi! My name is Rey, currently working as solo game developer from Indonesia.
 
-
-[![Twitter](https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FReyGameDev)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FReynaldyNC%2FReynaldyNC)
 [![Twitter](https://img.shields.io/twitter/url?label=Itch.io&logo=itch.io&style=social&url=https%3A%2F%2Freygamedev.itch.io%2F)](https://reygamedev.itch.io/)
 
 # Skills
