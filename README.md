@@ -1,7 +1,5 @@
 # About
-Hi! My name is Rey, currently working as solo game developer from Indonesia.
-
-[![Twitter](https://img.shields.io/twitter/url?label=Itch.io&logo=itch.io&style=social&url=https%3A%2F%2Freygamedev.itch.io%2F)](https://reygamedev.itch.io/)
+Hi! My name is Rey, passionate software engineer.
 
 # Skills
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=c96800)
@@ -13,5 +11,5 @@ Hi! My name is Rey, currently working as solo game developer from Indonesia.
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=EEFF41)
 
 # Stats
-[![ReynaldyNC's GitHub stats](https://github-readme-stats.vercel.app/api?username=reynaldync&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reynaldync&layout=compact&hide=TeX,powershell&langs_count=10&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![ReynaldyNC's GitHub stats](https://github-readme-stats.vercel.app/api?username=Reynaldev&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Reynaldev&layout=compact&hide=TeX,powershell&langs_count=10&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
