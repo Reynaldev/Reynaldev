@@ -1,5 +1,5 @@
 # About
-Hi! My name is Rey, passionate software engineer.
+Hi! I'm Rey, passionate software engineer.
 
 # Skills
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=c96800)
